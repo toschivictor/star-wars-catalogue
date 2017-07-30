@@ -1,6 +1,6 @@
-# StarWarsCatologue
+# Star Wars Catologue
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.2.6.
+A Star Wars Catologue with all informations about the films.
 
 ## Development server
 
